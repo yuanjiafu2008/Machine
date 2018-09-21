@@ -17,7 +17,7 @@ namespace MachineFactoryDll
     /// 售货机接口工厂
     /// 2015年08月24日
     /// </summary>
-    public class MachineFactory
+    public static class MachineFactory
     {
         #region 变量
         /// <summary>
